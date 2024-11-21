@@ -1,0 +1,17 @@
+* {
+    outline: 2px solid red;
+    padding: 0;
+}
+
+li {
+    background-color: #476072;
+    margin-bottom: 8px;
+    padding: 8px;
+    list-style-type: none;
+    display: inline-block;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
